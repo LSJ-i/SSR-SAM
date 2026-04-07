@@ -3,7 +3,7 @@
 Official implementation of **SSR-SAM**  
 *Retrieval-Style Segment Anything Model for Semi-Supervised Ultra-High-Resolution Image Segmentation*  
 
-📄 [Paper](link_to_paper) | 🧠 [Project Page](optional)
+📄 [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37566) | 🧠 [Project Page](optional)
 
 ---
 
